@@ -40,4 +40,6 @@ text
 
 "Responda [MSG] como suporte: 2 frases"
 
+📄 [Desafio NotebookLM - Agente WhatsApp IA](https://docs.google.com/document/d/1mLutuT8DGVztlsFFddDCFFZ3AMFyDc_nveRvOigPVtI/preview)
+
 ### Desafio do curso de CI&T - Do Prompt ao Agente da DIO.
